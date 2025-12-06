@@ -45,3 +45,15 @@ java Main
 ```bash
 cd python_version
 python3 main.py
+````
+
+💡 Wnioski Edukacyjne
+Realizacja tego projektu pozwoliła mi zrozumieć:
+
+Jak narzut abstrakcji wpływa na wydajność w poszczególnych językach.
+
+Jak różnie realizowany jest polimorfizm (statyczny vs dynamiczny).
+
+Dlaczego Python jest preferowany do szybkiego prototypowania, a C++ do systemów wymagających wydajności.
+
+Autor: Dominik Szwed Student Informatyki, Politechnika Gdańska
